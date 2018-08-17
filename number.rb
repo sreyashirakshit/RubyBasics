@@ -5,3 +5,6 @@ puts "Enter another number"
 second_number = gets.chomp
 
 puts "Mutiplication of the numbers is #{first_number.to_i * second_number.to_i}"
+
+#added code for branch numberMod
+puts "Addition of the numbers is #{first_number.to_i + second_number.to_i}"
