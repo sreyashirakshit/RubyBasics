@@ -11,3 +11,7 @@ h.each{|k,v| puts "New Hash:: the key is #{k} and the value is #{v}"}
 odd_hash = h.select{|k,v| v.odd?}
 
 odd_hash.each{|k,v| puts "Odd Hash:: the key is #{k} and the value is #{v}"}
+
+another_hash = {1 => "Monday", 2 => "Tuesday"}
+
+puts another_hash
