@@ -1,1 +1,1 @@
-# 08/18 - This project contains files covering basics of Ruby language.
+# 07/18 - This project contains files covering basics of Ruby language.
